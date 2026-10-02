@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Leitor — Euphoria Scan</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body class="reader-page">
+<header class="reader-bar">
+  <a class="logo" href="index.html">EUPHORIA <span>SCAN</span></a>
+  <div class="reader-actions">
+    <button id="smaller">−</button>
+    <span id="zoomLabel">100%</span>
+    <button id="larger">+</button>
+    <button id="topBtn">↑</button>
+  </div>
+</header>
+
+<main>
+  <div id="readerInfo" class="reader-info"></div>
+  <div id="pages" class="reader"></div>
+  <div id="readerError" class="reader-error" hidden></div>
+</main>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/reader.js"></script>
+</body>
+</html>
