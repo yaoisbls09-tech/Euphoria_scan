@@ -13,8 +13,8 @@ const WORKS = [
   {
     id: "Ebony-Castle",
     title: "Ebony Castle",
-    cover: "assets/img/capas/Yeon Do Hwa & Tristan Locke [Ebony Castle].jpg",",
-    description: "Num mundo onde nomes aparecem misteriosamente na pele, o pianista Dohwa "Eden" Yeon encontra o nome de Tristan Locke gravado em seu corpo. Mas, após seguir o nobre recluso até uma mansão na floresta, Eden descobre que seu nome não está em Tristan. Conforme sua vida se esvai sem o toque de Tristan, Eden se apega a um homem que o rejeita obstinadamente.",
+    cover: "assets/img/capas/Yeon Do Hwa & Tristan Locke [Ebony Castle].jpg",
+    description: "Num mundo onde nomes aparecem misteriosamente na pele, o pianista Dohwa Eden Yeon encontra o nome de Tristan Locke gravado em seu corpo. Mas, após seguir o nobre recluso até uma mansão na floresta, Eden descobre que seu nome não está em Tristan. Conforme sua vida se esvai sem o toque de Tristan, Eden se apega a um homem que o rejeita obstinadamente.",
     genres: ["BL", "Romance", "Drama", "Nameverse"],
     status: "Em hiatos",
     chapters: [
