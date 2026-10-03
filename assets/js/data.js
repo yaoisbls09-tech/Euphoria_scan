@@ -33,9 +33,10 @@ const WORKS = [
           "7.jpg",
           "8.jpg",
         ]
-     { 
-        number: "01",
-        title: "Capítulo 01",
+      },
+      {
+        number: "02",
+        title: "Capítulo 02",
         folder: "capitulos/Ebony-Castle/cap-002",
         pages: [
           "0.jpg",
@@ -54,8 +55,7 @@ const WORKS = [
           "13.jpg",
           "14.jpg",
           "15.jpg"
-          ]
-          
+       ]
       }
     ]
   }
