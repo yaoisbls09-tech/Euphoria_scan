@@ -54,7 +54,7 @@ const WORKS = [
           "12.jpg",
           "13.jpg",
           "14.jpg",
-          "15.jpg"
+          "15.jpg",
        ]
       }
     ]
